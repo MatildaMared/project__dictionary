@@ -5,10 +5,6 @@ const Global = createGlobalStyle`
     height: 100%;
   }
 
-  html {
-    font-family: var(--font-sans-serif);
-  }
-
   p {
     font-weight: 300;
   }

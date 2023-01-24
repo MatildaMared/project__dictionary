@@ -4,7 +4,8 @@ const base = {
     tablet: "48rem",
     desktop: "90rem",
   },
-  maxWidth: "1200px",
+  maxWidth: "1000px",
+  fontFamily: "Inter, sans-serif",
 };
 
 export const lightTheme = {
