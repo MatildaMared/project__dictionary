@@ -2,7 +2,7 @@ import { createGlobalStyle } from "styled-components";
 
 const Global = createGlobalStyle`
   html {
-    font-family: "Inter", sans-serif;
+    font-family: var(--font-sans-serif);
   }
 
   p {
