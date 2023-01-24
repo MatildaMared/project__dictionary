@@ -1,6 +1,10 @@
 import { createGlobalStyle } from "styled-components";
 
 const Global = createGlobalStyle`
+  html, #root, body {
+    height: 100%;
+  }
+
   html {
     font-family: var(--font-sans-serif);
   }

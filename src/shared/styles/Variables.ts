@@ -17,6 +17,12 @@ const Variables = createGlobalStyle`
 
     --color-primary: hsl(274, 82%, 60%);
     --color-error: hsl(0, 100%, 66%);
+
+    --spacing-xs: 0.5rem;
+    --spacing-s: 1rem;
+    --spacing-m: 2rem;
+    --spacing-l: 4rem;
+    --spacing-xl: 8rem;
   }
 `;
 
